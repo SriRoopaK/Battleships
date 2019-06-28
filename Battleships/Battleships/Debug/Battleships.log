@@ -1,0 +1,6 @@
+﻿  source.c
+C:\Users\K.Nageswara Rao\source\repos\Battleships\Battleships\source.c(49,13): warning C4013:  'strcmp' undefined; assuming extern returning int
+C:\Users\K.Nageswara Rao\source\repos\Battleships\Battleships\source.c(84,28): warning C4013:  'malloc' undefined; assuming extern returning int
+C:\Users\K.Nageswara Rao\source\repos\Battleships\Battleships\source.c(84,1): warning C4047:  'initializing': 'char **' differs in levels of indirection from 'char *'
+C:\Users\K.Nageswara Rao\source\repos\Battleships\Battleships\source.c(144,8): warning C4013:  'system' undefined; assuming extern returning int
+  Battleships.vcxproj -> C:\Users\K.Nageswara Rao\source\repos\Battleships\Debug\Battleships.exe
